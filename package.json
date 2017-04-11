@@ -30,6 +30,7 @@
     "firebase-admin": "^4.2.0"
   },
   "devDependencies": {
+    "eslint": "^3.19.0",
     "nodemon": "^1.11.0"
   }
 }
